@@ -26,7 +26,7 @@ Meu objetivo a longo prazo é me tornar uma desenvolvedora full-stack, expandind
 
 Estou ansiosa para contribuir com o mercado de tecnologia, enfrentando desafios e criando soluções que impactem positivamente as pessoas.
 
-Se quiser saber mais sobre meu trabalho ou trocar ideias, entre em contato pelos seguintes meios: **[E-mail](mailto:mariadferreir44@gmail.com
+📬 Se quiser saber mais sobre meu trabalho ou trocar ideias, entre em contato pelos seguintes meios: **[E-mail](mailto:mariadferreir44@gmail.com
 )** | **[LinkedIn](https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)**
 
 ---
