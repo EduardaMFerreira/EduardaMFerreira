@@ -28,6 +28,9 @@ No momento, tenho a oportunidade de aprofundar meus conhecimentos por meio de um
 
 Estou ansiosa para contribuir com o mercado de tecnologia, enfrentando desafios e criando soluções que impactem positivamente as pessoas.
 
+### Contato📎
+Se quiser saber mais sobre meu trabalho ou trocar ideias, entre em contato pelos seguintes meios: **[E-mail](mariadferreir44@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)**
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
