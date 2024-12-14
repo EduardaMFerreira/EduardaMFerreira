@@ -24,11 +24,8 @@ Meu nome é Eduarda Ferreira, tenho 19 anos e sou graduanda em Ciência da Compu
 
 Meu objetivo a longo prazo é me tornar uma desenvolvedora full-stack, expandindo minhas habilidades para englobar tanto o front-end quanto o back-end. Sou curiosa, dedicada e estou sempre buscando aprender novas tecnologias e ferramentas que me ajudem a crescer profissionalmente.
 
-No momento, tenho a oportunidade de aprofundar meus conhecimentos por meio de um projeto de extensão na fábrica de software da universidade, que tem sido um divisor de águas no meu aprendizado prático.
-
 Estou ansiosa para contribuir com o mercado de tecnologia, enfrentando desafios e criando soluções que impactem positivamente as pessoas.
 
-### Contato📎
 Se quiser saber mais sobre meu trabalho ou trocar ideias, entre em contato pelos seguintes meios: **[E-mail](mariadferreir44@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)**
 
 ---
