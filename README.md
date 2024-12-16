@@ -26,10 +26,10 @@ Meu objetivo a longo prazo é me tornar uma desenvolvedora full-stack, expandind
 
 Estou ansiosa para contribuir com o mercado de tecnologia, enfrentando desafios e criando soluções que impactem positivamente as pessoas.
 
-📬 Se quiser saber mais sobre meu trabalho ou trocar ideias, entre em contato pelos seguintes meios: **[E-mail](mailto:mariadferreir44@gmail.com
-)** | **[LinkedIn](https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)**
+ 📬 Se quiser saber mais sobre meu trabalho ou trocar ideias, entre em contato pelos seguintes meios:
 
-[![Linkedin Badge](https://img.shields.io/badge/Maria%20Eduarda%20De%20M.%20Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)](https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)](https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=)](https://www.tiktok.com/@nataliafdev)
 
 ---
 
