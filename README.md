@@ -20,13 +20,9 @@ Here are some ideas to get you started:
 
 ### Olá!👋
 
-Meu nome é Eduarda Ferreira, tenho 19 anos e sou graduanda em Ciência da Computação pela UNIPÊ, atualmente no 3º período. Durante minha trajetória acadêmica, me descobri apaixonada pelo desenvolvimento front-end, área onde estou me dedicando e desenvolvendo projetos.
+Meu nome é Eduarda Ferreira, tenho 19 anos e sou graduanda em Ciência da Computação pelo UNIPÊ, atualmente no 3º período. Estou me especializando no desenvolvimento front-end, com o objetivo de, no futuro, me tornar uma desenvolvedora full-stack. Sou apaixonada por tecnologia e sempre busco aprender e criar soluções que façam a diferença.
 
-Meu objetivo a longo prazo é me tornar uma desenvolvedora full-stack, expandindo minhas habilidades para englobar tanto o front-end quanto o back-end. Sou curiosa, dedicada e estou sempre buscando aprender novas tecnologias e ferramentas que me ajudem a crescer profissionalmente.
-
-Estou ansiosa para contribuir com o mercado de tecnologia, enfrentando desafios e criando soluções que impactem positivamente as pessoas.
-
- 📬 Se quiser saber mais sobre meu trabalho ou trocar ideias, entre em contato pelos seguintes meios:
+📬 Entre em contato comigo para trocar ideias ou conhecer mais sobre meu trabalho:
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)](https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariadferreir44@gmail.com)
