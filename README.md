@@ -64,6 +64,14 @@ Meu nome é Eduarda Ferreira, tenho 19 anos e sou graduanda em Ciência da Compu
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
+<!--<img 
+  align="left"
+  alt="Tailwindcss"
+  title="Tailwindcss"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>-->
 <img 
   align="left"
   alt="JavaScript"
