@@ -24,7 +24,7 @@ Meu nome é Eduarda Ferreira, tenho 20 anos e sou graduanda em Ciência da Compu
 
 📬 Entre em contato comigo para trocar ideias ou conhecer mais sobre meu trabalho:
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)](https://www.linkedin.com/in/maria-eduarda-de-moura-ferreira-b72279307/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-ferreira-b72279307/)](https://www.linkedin.com/in/eduarda-ferreira-b72279307/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariadferreir44@gmail.com)
 
 
