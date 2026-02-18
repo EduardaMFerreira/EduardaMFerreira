@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Olá!👋
 
-Meu nome é Eduarda Ferreira, tenho 20 anos e sou graduanda em Ciência da Computação pelo UNIPÊ, atualmente no 4º período. Estou me especializando no desenvolvimento front-end, com o objetivo de, no futuro, me tornar uma desenvolvedora full-stack. Sou apaixonada por tecnologia e sempre busco aprender e criar soluções que façam a diferença.
+Meu nome é Eduarda Ferreira, tenho 20 anos e sou graduanda em Ciência da Computação pelo UNIPÊ, atualmente no 5º período. Estou me especializando no desenvolvimento front-end, com o objetivo de, no futuro, me tornar uma desenvolvedora full-stack. Sou apaixonada por tecnologia e sempre busco aprender e criar soluções que façam a diferença.
 
 📬 Entre em contato comigo para trocar ideias ou conhecer mais sobre meu trabalho:
 
