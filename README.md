@@ -42,27 +42,35 @@ Meu nome é Eduarda Ferreira, tenho 20 anos e sou graduanda em Ciência da Compu
 />
 <img 
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="Git"
+  title="Git"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="Docker"
+  title="Docker"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 <img 
   align="left"
-  alt="SASS"
-  title="SASS"
+  alt="REACT"
+  title="REACT"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"       
+/>
+<img 
+  align="left"
+  alt="NEXT"
+  title="NEXT"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"     
 />
 <img 
   align="left"
@@ -74,20 +82,28 @@ Meu nome é Eduarda Ferreira, tenho 20 anos e sou graduanda em Ciência da Compu
 />
 <img 
   align="left"
+  alt="SASS"
+  title="SASS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+  align="left"
   alt="JavaScript"
   title="JavaScript"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<!--<img 
+<img 
   align="left"
-  alt="Git"
-  title="Git"
+  alt="TypeScript"
+  title="TypeScript"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>-->
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
 <img 
   align="left"
   alt="PHP"
@@ -95,6 +111,14 @@ Meu nome é Eduarda Ferreira, tenho 20 anos e sou graduanda em Ciência da Compu
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+  align="left"
+  alt="Swift"
+  title="Swift"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"
 />
 </br></br>
 
