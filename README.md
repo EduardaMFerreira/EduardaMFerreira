@@ -30,7 +30,7 @@ Meu nome é Eduarda Ferreira, tenho 20 anos e sou graduanda em Ciência da Compu
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
   align="left"
