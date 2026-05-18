@@ -52,7 +52,7 @@ Meu nome é Eduarda Ferreira, tenho 20 anos e sou graduanda em Ciência da Compu
   align="left"
   alt="Docker"
   title="Docker"
-  width="30px"
+  width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
@@ -108,7 +108,7 @@ Meu nome é Eduarda Ferreira, tenho 20 anos e sou graduanda em Ciência da Compu
   align="left"
   alt="PHP"
   title="PHP"
-  width="30px"
+  width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
